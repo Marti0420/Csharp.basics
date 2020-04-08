@@ -31,7 +31,29 @@ namespace DataTypes
             bool @true = true;
             bool @false = false;
             
+            var number2 = 21.37m; //type taken from right sight of the equality operator
+            
+            // Operators
+
+            var sum = 2 + number;
+            var difference = sum - 2;
+            var multiplying = 2 * 2;
+            var division = 2 / 2;
+            var modulo = 5 % 2;
+
+            var negation = !true;
+            var alternative = true || false; // OR
+            var conjuction = true && false; // AND 
+
+            var shortCircled = false & PrintText();
+            
             Console.WriteLine("Hello World!");
+        }
+
+        static bool PrintText()
+        {
+            Console.WriteLine("HELLO");
+            return false;
         }
     }
 }
