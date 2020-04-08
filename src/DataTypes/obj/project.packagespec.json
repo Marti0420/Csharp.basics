@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/martynapiorkowska/Repos/Csharp.basics/CsharpBasics/src/DataTypes/DataTypes.csproj",
+    "projectUniqueName": "/Users/martynapiorkowska/Repos/Csharp.basics/src/DataTypes/DataTypes.csproj",
     "projectName": "DataTypes",
-    "projectPath": "/Users/martynapiorkowska/Repos/Csharp.basics/CsharpBasics/src/DataTypes/DataTypes.csproj",
-    "outputPath": "/Users/martynapiorkowska/Repos/Csharp.basics/CsharpBasics/src/DataTypes/obj/",
+    "projectPath": "/Users/martynapiorkowska/Repos/Csharp.basics/src/DataTypes/DataTypes.csproj",
+    "outputPath": "/Users/martynapiorkowska/Repos/Csharp.basics/src/DataTypes/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

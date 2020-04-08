@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/martynapiorkowska/Repos/Csharp.basics/CsharpBasics/src/DataTypes/DataTypes.csproj": {}
+    "/Users/martynapiorkowska/Repos/Csharp.basics/src/DataTypes/DataTypes.csproj": {}
   },
   "projects": {
-    "/Users/martynapiorkowska/Repos/Csharp.basics/CsharpBasics/src/DataTypes/DataTypes.csproj": {
+    "/Users/martynapiorkowska/Repos/Csharp.basics/src/DataTypes/DataTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/martynapiorkowska/Repos/Csharp.basics/CsharpBasics/src/DataTypes/DataTypes.csproj",
+        "projectUniqueName": "/Users/martynapiorkowska/Repos/Csharp.basics/src/DataTypes/DataTypes.csproj",
         "projectName": "DataTypes",
-        "projectPath": "/Users/martynapiorkowska/Repos/Csharp.basics/CsharpBasics/src/DataTypes/DataTypes.csproj",
+        "projectPath": "/Users/martynapiorkowska/Repos/Csharp.basics/src/DataTypes/DataTypes.csproj",
         "packagesPath": "/Users/martynapiorkowska/.nuget/packages/",
-        "outputPath": "/Users/martynapiorkowska/Repos/Csharp.basics/CsharpBasics/src/DataTypes/obj/",
+        "outputPath": "/Users/martynapiorkowska/Repos/Csharp.basics/src/DataTypes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/martynapiorkowska/.config/NuGet/NuGet.Config"
