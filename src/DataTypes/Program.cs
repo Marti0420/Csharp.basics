@@ -18,7 +18,7 @@ namespace DataTypes
             ulong ulongNumber = 20; // always positive
 
             float floatNumber = 21.37f; 
-            double doubleNumber = 21.37; // body wight
+            double doubleNumber = 21.37; // body weight
             decimal decimalNumber = 21.37m; // money
             
             
@@ -56,4 +56,4 @@ namespace DataTypes
             return false;
         }
     }
-}
+} 
