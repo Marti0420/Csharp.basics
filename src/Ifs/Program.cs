@@ -42,10 +42,7 @@ namespace Ifs
 
             Console.WriteLine($"Hello {name}, your age is {age}");
         }
-        
-        
     }
-}
-    
+}        
         
             
