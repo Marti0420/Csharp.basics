@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning", "src\Learning\Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "src\FizzBuzz\FizzBuzz.csproj", "{BAAC7754-AB55-4B0A-AEAB-7773F0F10489}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colections", "src\Colections\Colections.csproj", "{3E72B542-12BE-4DFA-8EB6-41B682288AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FB Collections", "src\FB Collections\FB Collections.csproj", "{5EA73182-8561-43C5-A3CF-59623BC3A3B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{BAAC7754-AB55-4B0A-AEAB-7773F0F10489}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAAC7754-AB55-4B0A-AEAB-7773F0F10489}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAAC7754-AB55-4B0A-AEAB-7773F0F10489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E72B542-12BE-4DFA-8EB6-41B682288AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E72B542-12BE-4DFA-8EB6-41B682288AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E72B542-12BE-4DFA-8EB6-41B682288AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E72B542-12BE-4DFA-8EB6-41B682288AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA73182-8561-43C5-A3CF-59623BC3A3B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA73182-8561-43C5-A3CF-59623BC3A3B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA73182-8561-43C5-A3CF-59623BC3A3B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA73182-8561-43C5-A3CF-59623BC3A3B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
